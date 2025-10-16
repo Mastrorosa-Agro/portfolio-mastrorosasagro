@@ -7,7 +7,7 @@ const person: Person = {
   name: `Mastrorosa | Gestão Inteligente no Agronegócio`,
   role: "Transformando Dados em Safras Históricas",
   avatar: "/images/avatar.jpg",
-  email: "mastrorosasagro@gmail.com",
+  email: "mastrorosasagro.gmail.com",
   location: "Brasil | América Latina", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Portuguese", "Portuguese BR"], // optional: Leave the array empty if you don't want to display languages
 };
